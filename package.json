@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "rollup": "^0.31.1",
+    "rollup-plugin-node-resolve": "^1.7.0",
+    "rollup-watch": "^2.2.0"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  }
+}
